@@ -4,4 +4,4 @@
 # RTC，calendar。
 # Max30102 heart rate sensor; 
 # SHT10 to realize the temperature and humidity monitoring of residential environment 
-# # With WiFi communication function, the data collected by the system is uploaded to the China Mobile Internet of things platform through ESP8266 WiFi。
+# With WiFi communication function, the data collected by the system is uploaded to the China Mobile Internet of things platform through ESP8266 WiFi。
