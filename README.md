@@ -1,9 +1,7 @@
 # target board max32630fthr 
-# develop tools keil mdk5
-# 使用1.3寸OLED显示屏实现信息数据的显示;
-# 具备时间显示功能，使用芯片内置RTC，通过模拟表盘、数字等方式显示时间。
-# 通过MAX30102心率血氧传感器实现人体心率、血氧参数的采集；
-# 通过SHT10实现居住环境的温湿度的监测。
-# 通过BMI160实现运动数据的监测。
-# 各个功能界面通过功能按键进行切换。
-# 具备WiFi通讯功能，系统采集到的数据信息通过ESP8266 WiFi 上传到中国移动物联网平台，
+# developing tools keil mdk5
+# 1.3 inch OLED display;
+# RTC，calendar。
+# Max30102 heart rate sensor; 
+# SHT10 to realize the temperature and humidity monitoring of residential environment 
+# # With WiFi communication function, the data collected by the system is uploaded to the China Mobile Internet of things platform through ESP8266 WiFi。
